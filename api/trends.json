@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-14T22:24:20.857045+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2025-10-14T23:26:17.531835+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
+          "url": "https://news.ifeng.com/c/8nRppITbDH3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时23分 ~ 23时26分]"
+        },
         {
           "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
           "url": "https://v.ifeng.com/c/8nRLZYpIezc",
@@ -18,25 +29,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时33分 ~ 19时20分]"
-        },
-        {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            7,
-            5,
-            10,
-            3,
-            4,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 22时24分]"
         },
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -51,15 +43,24 @@
           "time_info": "[09时19分 ~ 13时22分]"
         },
         {
-          "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
-          "url": "https://news.ifeng.com/c/8nRppITbDH3",
-          "source": "凤凰网",
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            28,
+            7,
+            5,
+            10,
+            3,
+            4,
+            14,
+            15,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[11时02分 ~ 23时26分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -77,8 +78,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[11时02分 ~ 23时26分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -107,11 +108,12 @@
             20,
             23,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时19分 ~ 22时24分]"
+          "appearance_count": 22,
+          "time_info": "[09时19分 ~ 23时26分]"
         },
         {
           "title": "特朗普抱怨：这张照片实在太烂了(图)",
@@ -121,8 +123,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[18时23分 ~ 23时26分]"
+        },
+        {
+          "title": "特朗普抱怨美媒用他最差照片当封面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%BE%8E%E5%AA%92%E7%94%A8%E4%BB%96%E6%9C%80%E5%B7%AE%E7%85%A7%E7%89%87%E5%BD%93%E5%B0%81%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            22,
+            19,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时23分 ~ 23时26分]"
         },
         {
           "title": "特朗普马克龙上演26秒掰手腕式握手",
@@ -137,6 +154,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时02分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时49分 ~ 23时26分]"
         },
         {
           "title": "特朗普指着阿联酋副总统：钱多得没边",
@@ -165,18 +196,26 @@
           "time_info": "[09时19分 ~ 13时22分]"
         },
         {
-          "title": "特朗普抱怨美媒用他最差照片当封面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%BE%8E%E5%AA%92%E7%94%A8%E4%BB%96%E6%9C%80%E5%B7%AE%E7%85%A7%E7%89%87%E5%BD%93%E5%B0%81%E9%9D%A2",
-          "source": "百度热搜",
+          "title": "据英国金融时报：必和必拓(BHP.N)首席执行官表示，特朗普任内采取的举措促使公司加大了在美国的勘探力度，并推动了对亚利桑那州相关选项的重新评估。",
+          "url": "https://flash.jin10.com/detail/20251014231559742800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            22,
-            19,
-            18
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 22时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "必和必拓CEO Mike Henry：特朗普政府的政策朝着矿业倾斜。 考虑重启美国铜矿地带的那些矿场。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2987610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "特朗普100%关税威胁是虚晃一枪吗",
@@ -214,19 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时49分 ~ 22时24分]"
         },
         {
           "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
@@ -456,6 +482,17 @@
           "time_info": "19时20分"
         },
         {
+          "title": "美国众议长约翰逊：特朗普政府有权将其他资源调拨来作为军人工资开销。",
+          "url": "https://wallstreetcn.com/livenews/2987599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "克里姆林宫：希望美国能在乌克兰的和平进程中发挥影响力。欢迎特朗普希望在加沙局势取得进展后，将注意力集中于寻求解决乌克兰冲突的意愿。",
           "url": "https://flash.jin10.com/detail/20251014175027679800",
           "source": "金十数据",
@@ -465,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：美国总统特朗普政府有权调动资金支付士兵费用。",
+          "url": "https://flash.jin10.com/detail/20251014224038063800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "特朗普称将于本周在白宫会见泽连斯基",
@@ -536,7 +584,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -544,11 +592,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时19分 ~ 22时24分]"
+          "appearance_count": 22,
+          "time_info": "[09时19分 ~ 23时26分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -574,13 +623,24 @@
           "time_info": "[09时19分 ~ 13时22分]"
         },
         {
+          "title": "美股三大股指低开，金银油下跌，数字货币重挫",
+          "url": "https://wallstreetcn.com/articles/3757142",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫，“所有资产都在跌”",
           "url": "https://wallstreetcn.com/articles/3757142",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -616,6 +676,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时32分 ~ 23时26分]"
         },
         {
           "title": "高盛美股盘前跌幅扩大至3%。",
@@ -654,18 +727,6 @@
           "time_info": "[09时19分 ~ 11时03分]"
         },
         {
-          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2169365",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时24分]"
-        },
-        {
           "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
           "url": "https://www.cls.cn/detail/2168011",
           "source": "财联社热门",
@@ -687,6 +748,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时33分 ~ 22时24分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数下挫，半导体ETF、全球科技股指数ETF跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/2987579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时26分]"
         },
         {
           "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
@@ -756,24 +829,13 @@
           "time_info": "16时29分"
         },
         {
-          "title": "美股盘初，主要行业ETF多数下挫，半导体ETF、全球科技股指数ETF跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2987579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "美股三大指数集体低开 AMD涨超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+AMD%E6%B6%A8%E8%B6%851%25",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -836,8 +898,21 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "金价这么高 到底谁在买",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时20分 ~ 23时26分]"
+        },
         {
           "title": "金价银价跳水",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D2%26stream_entry_id%3D31%26pos%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D2%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26display_time%3D1760426450%26pre_seqid%3D176042645021003776027121",
@@ -849,20 +924,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时22分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[15时22分 ~ 23时26分]"
         },
         {
-          "title": "金价这么高 到底谁在买",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
-          "source": "百度热搜",
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D4%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D4%26flag%3D1%26band_rank%3D4%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1760455529%26pre_seqid%3D1760455529239020650741",
+          "source": "微博",
           "ranks": [
-            27,
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时20分 ~ 22时24分]"
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
@@ -898,6 +972,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时32分 ~ 22时24分]"
+        },
+        {
+          "title": "金价飙升带火洗沙盘",
+          "url": "https://www.toutiao.com/trending/7561063810480475711/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
+        },
+        {
+          "title": "金价突破4000美元 还该继续买入吗",
+          "url": "https://www.toutiao.com/trending/7561057761866321459/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         },
         {
           "title": "金十图示：2025年10月14日（周二）上海金午盘价为936.14元/克，较国际金价(942.9元/克)低6.76元/克",
@@ -960,8 +1056,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 22时24分]"
+          "appearance_count": 20,
+          "time_info": "[11时02分 ~ 23时26分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -1042,7 +1138,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         }
@@ -1102,24 +1198,25 @@
           "time_info": "[12时27分 ~ 13时22分]"
         },
         {
+          "title": "谌贻琴分别会见保加利亚副总统、伊朗副总统、乌兹别克斯坦副总理",
+          "url": "https://wallstreetcn.com/livenews/2987582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时26分]"
+        },
+        {
           "title": "能源公司VITOL首席执行官罗素·哈迪：石油市场可能会对2026年的伊朗和委内瑞拉的供应感到自满。",
           "url": "https://flash.jin10.com/detail/20251014215652309800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "谌贻琴分别会见保加利亚副总统、伊朗副总统、乌兹别克斯坦副总理",
-          "url": "https://wallstreetcn.com/livenews/2987582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1149,18 +1246,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌与世界银行构建合作伙伴关系。 双方将围绕新兴市场数字基础设施展开合作。",
           "url": "https://wallstreetcn.com/livenews/2987586",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时26分]"
+        },
+        {
+          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
+          "url": "https://wallstreetcn.com/livenews/2987601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时26分"
         }
       ]
     },
@@ -1190,11 +1299,12 @@
           "url": "https://wallstreetcn.com/livenews/2987585",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时26分]"
         }
       ]
     },
