@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T14:33:32.655295+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2025-10-14T15:23:16.094413+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -30,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 14时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 15时23分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -41,11 +41,12 @@
             14,
             17,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 14时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 15时23分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -54,11 +55,37 @@
           "ranks": [
             28,
             7,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 15时23分]"
+        },
+        {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "特朗普马克龙上演26秒掰手腕式握手",
@@ -86,30 +113,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时19分 ~ 13时22分]"
-        },
-        {
-          "title": "特朗普C位合影喊话：大家笑起来",
-          "url": "https://www.toutiao.com/trending/7560888494140182043/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 14时33分]"
-        },
-        {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "马来西亚外交部长：美国总统特朗普期待见证泰柬停火协议。",
@@ -216,6 +219,17 @@
           "time_info": "[09时19分 ~ 09时20分]"
         },
         {
+          "title": "特朗普关税由谁买单？高盛最新分析：美国消费者将负担超五成成本",
+          "url": "https://www.cls.cn/detail/2168315",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
           "title": "和平峰会特朗普挨个点名各国领导人",
           "url": "https://www.toutiao.com/trending/7559963608768086059/",
           "source": "今日头条",
@@ -225,6 +239,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普卡尼互动英首相想加入遭无视",
+          "url": "https://www.toutiao.com/trending/7560307195448655898/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "特朗普在以议会演讲遭大喊抗议",
@@ -260,6 +285,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "伊朗外交部：强烈谴责特朗普对伊朗毫无根据的指控及不负责任的荒谬言论",
+          "url": "https://flash.jin10.com/detail/20251014151144241800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "特朗普称将于本周在白宫会见泽连斯基",
           "url": "https://wallstreetcn.com/livenews/2987072",
           "source": "华尔街见闻-快讯",
@@ -277,7 +313,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -306,6 +342,89 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D2%26stream_entry_id%3D31%26pos%3D1%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D2%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26display_time%3D1760426450%26pre_seqid%3D176042645021003776027121",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
+          "url": "https://wallstreetcn.com/livenews/2987235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "金价疯狂涨势还能持续多久",
+          "url": "https://www.toutiao.com/trending/7560952972620860947/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）上海金午盘价为936.14元/克，较国际金价(942.9元/克)低6.76元/克",
+          "url": "https://flash.jin10.com/detail/20251014151253070800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
+          "url": "https://flash.jin10.com/detail/20251014102105537800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
+          "url": "https://wallstreetcn.com/livenews/2987056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "金价离10000美元不远了吗",
+          "url": "https://www.toutiao.com/trending/7560904267347791369/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -319,8 +438,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时02分 ~ 15时23分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -328,11 +447,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 14时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 15时23分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
@@ -383,8 +503,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时19分 ~ 14时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 15时23分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -493,56 +613,6 @@
           "source": "金十数据",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
-          "url": "https://wallstreetcn.com/livenews/2987235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
-          "url": "https://flash.jin10.com/detail/20251014102105537800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
-          "url": "https://wallstreetcn.com/livenews/2987056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
-          "title": "金价离10000美元不远了吗",
-          "url": "https://www.toutiao.com/trending/7560904267347791369/",
-          "source": "今日头条",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
