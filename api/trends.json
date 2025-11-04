@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T04:50:12.525495+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-11-05T05:21:01.936096+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 04时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 05时21分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             14,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 04时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 05时21分]"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -265,9 +266,96 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 05时21分]"
+        },
+        {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 05时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251105013105408800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时19分]"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251105050612809800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251105050517718800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美股收盘：三大股指齐挫 纳指大跌2%",
+          "url": "https://flash.jin10.com/detail/20251105050113482800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/2999272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     },
@@ -313,6 +401,18 @@
           "time_info": "[01时18分 ~ 02时33分]"
         },
         {
+          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
+          "url": "https://wallstreetcn.com/livenews/2999380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时21分]"
+        },
+        {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
           "url": "https://flash.jin10.com/detail/20251105011112408800",
           "source": "金十数据",
@@ -322,71 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        },
-        {
-          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
-          "url": "https://wallstreetcn.com/livenews/2999380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 04时50分]"
-        },
-        {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 04时50分]"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251105013105408800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时19分]"
-        },
-        {
-          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/2999272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
         }
       ]
     },
@@ -399,22 +434,24 @@
           "url": "https://flash.jin10.com/detail/20251105043654258800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时21分]"
         },
         {
           "title": "周二（11月4日）纽约尾盘，ICE美元指数涨0.38%，刷新日高至100.255点，北京时间15:42微幅下跌至99.743点，随后持续走高。 彭博美元指数涨0.38%，刷新日高至1226.13点，15:32刷新日低至1220.99点之后，也持续上扬。",
           "url": "https://wallstreetcn.com/livenews/2999387",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时21分]"
         },
         {
           "title": "民生宏观：美元指数再破100 但升值周期未至",
@@ -423,7 +460,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -452,19 +489,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 04时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 05时21分]"
         },
         {
           "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
           "url": "https://flash.jin10.com/detail/20251105044443775800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时21分]"
         }
       ]
     },
@@ -477,11 +515,12 @@
           "url": "https://wallstreetcn.com/livenews/2999388",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时21分]"
         }
       ]
     },
@@ -496,7 +535,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
