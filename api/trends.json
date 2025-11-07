@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T17:25:27.074199+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2025-11-07T18:29:44.312988+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 83,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            17,
+            20,
+            9,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 18时29分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -54,31 +71,16 @@
           "time_info": "[09时44分 ~ 16时30分]"
         },
         {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            17,
-            20,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时15分 ~ 17时25分]"
-        },
-        {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
           "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时29分]"
         },
         {
           "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
@@ -163,6 +165,18 @@
           "time_info": "07时20分"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普将与匈牙利总理欧尔班会面，讨论俄罗斯石油及经济合作问题。",
           "url": "https://flash.jin10.com/detail/20251107140048691800",
           "source": "金十数据",
@@ -194,18 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
-        },
-        {
-          "title": "关税案开审，特朗普：美国人确实付出代价",
-          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 17时25分]"
         },
         {
           "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
@@ -762,7 +764,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -844,6 +846,17 @@
           "time_info": "16时30分"
         },
         {
+          "title": "特朗普官宣降价 药企高管当场晕倒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7+%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
           "url": "https://flash.jin10.com/detail/20251107025737098800",
           "source": "金十数据",
@@ -905,7 +918,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -957,7 +970,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -998,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时44分 ~ 17时25分]"
+        },
+        {
+          "title": "花旗集团：将小马智行(PONY.O)美股目标价从29.0美元下调至24.5美元。",
+          "url": "https://flash.jin10.com/detail/20251107180537622800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1065,7 +1089,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1076,7 +1100,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1131,7 +1155,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1203,11 +1227,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 18时29分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1419,8 +1444,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 17时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 18时29分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1503,11 +1528,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时21分 ~ 17时25分]"
+          "appearance_count": 13,
+          "time_info": "[06时21分 ~ 18时29分]"
         },
         {
           "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
