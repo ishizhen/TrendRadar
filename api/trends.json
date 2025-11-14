@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T15:22:22.263821+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2025-11-14T16:30:50.404491+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "英国文化大臣南迪：BBC已经正确地接受了在特朗普纪录片中，它的表现未达最高标准。BBC是英国乃至全球一个极其重要的机构。BBC向美国总统特朗普道歉是正确的。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 16时30分]"
         },
         {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
@@ -87,17 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时33分 ~ 04时26分]"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时22分]"
         },
         {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
@@ -181,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 11时15分]"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美国总统特朗普推动的近海钻探计划在加利福尼亚州遭遇根深蒂固的反对。",
@@ -313,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3004701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "特朗普顾问哈塞特：估计美国政府停摆造成6万人失业",
@@ -777,7 +799,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
