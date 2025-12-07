@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T21:28:02.825113+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2025-12-07T22:20:11.715947+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -55,6 +55,20 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
           "title": "美国发生特大诈骗案 特朗普怒批",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
           "source": "百度热搜",
@@ -70,19 +84,6 @@
           "time_info": "[11时39分 ~ 15时21分]"
         },
         {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时21分 ~ 21时28分]"
-        },
-        {
           "title": "特朗普获国际足联和平奖",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
           "source": "bilibili 热搜",
@@ -90,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[21时27分 ~ 22时20分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -154,11 +155,38 @@
           "source": "金十数据",
           "ranks": [
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时20分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时20分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -170,30 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 15时21分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时28分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时28分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
