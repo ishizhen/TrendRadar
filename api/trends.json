@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:28:52.156384+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-12-09T19:22:38.024581+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -90,6 +90,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
+          "url": "https://flash.jin10.com/detail/20251209191036728800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
           "url": "https://flash.jin10.com/detail/20251209003933561800",
           "source": "金十数据",
@@ -101,6 +112,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "匈牙利福林兑美元抹去涨幅，据报特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190828500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
           "url": "https://wallstreetcn.com/livenews/3017324",
           "source": "华尔街见闻-快讯",
@@ -110,6 +132,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 19时22分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -219,19 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时22分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 18时28分]"
         },
         {
           "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
@@ -502,9 +525,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "据Politico：特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190736130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
@@ -540,6 +574,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "路透社/益普索民意调查：随着共和党人支持美国总统特朗普应对生活成本问题的方式，对其工作方面的支持率从38%升至41%。",
+          "url": "https://flash.jin10.com/detail/20251209190617908800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美国总统特朗普：美国将拿出一小部分关税收入，用于补贴农民。",
           "url": "https://flash.jin10.com/detail/20251209033505565800",
           "source": "金十数据",
@@ -573,6 +618,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "路透社/益普索民意调查：西语裔对美国总统特朗普的支持率微升至34%。",
+          "url": "https://flash.jin10.com/detail/20251209190541205800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
           "url": "https://wallstreetcn.com/livenews/3017188",
           "source": "华尔街见闻-快讯",
@@ -582,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
+          "url": "https://flash.jin10.com/detail/20251209190527721800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
@@ -708,7 +775,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -881,6 +948,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
@@ -1058,6 +1136,18 @@
           "time_info": "[05时20分 ~ 06时22分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时22分]"
+        },
+        {
           "title": "谷歌与XREAL联合发布Project Aura",
           "url": "https://wallstreetcn.com/livenews/3017367",
           "source": "华尔街见闻-快讯",
@@ -1115,17 +1205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -1241,8 +1320,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 19时22分]"
         }
       ]
     },
@@ -1301,8 +1380,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时48分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 19时22分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
