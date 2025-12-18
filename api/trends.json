@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:27:32.013064+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2025-12-18T19:22:27.029404+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
@@ -62,6 +62,21 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            2,
+            4,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时22分]"
+        },
+        {
           "title": "特朗普对马杜罗下狠手",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
           "source": "百度热搜",
@@ -75,20 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时48分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普：我接手了一个烂摊子",
-          "url": "https://www.toutiao.com/trending/7584554052525080639/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 18时27分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -114,6 +115,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时22分]"
+        },
+        {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 19时22分]"
         },
         {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
@@ -152,15 +165,17 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12,
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时33分 ~ 18时27分]"
+          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "特朗普发表演讲称接手了一个烂摊子",
@@ -195,18 +210,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
@@ -255,6 +258,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 13时26分]"
+        },
+        {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 19时22分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -369,17 +384,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
-          "url": "https://wallstreetcn.com/livenews/3023059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "特朗普说委内瑞拉抢了美国的石油",
           "url": "https://wallstreetcn.com/livenews/3022878",
           "source": "华尔街见闻-快讯",
@@ -474,7 +478,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -648,8 +652,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时23分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[06时23分 ~ 19时22分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -920,6 +924,17 @@
           "time_info": "[14时37分 ~ 15时25分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 19时22分]"
+        },
+        {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
           "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
@@ -929,17 +944,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 12时36分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -970,6 +974,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 19时22分]"
+        },
+        {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
           "url": "https://www.zhihu.com/question/1984670354627651255",
           "source": "知乎",
@@ -981,18 +998,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时37分 ~ 17时31分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 18时27分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -1127,7 +1132,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
@@ -1140,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时23分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
