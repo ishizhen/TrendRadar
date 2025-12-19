@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T17:28:06.333725+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2025-12-19T18:27:00.452413+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时51分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 18时27分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -31,6 +32,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 11时26分]"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 18时27分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -46,6 +63,17 @@
           "time_info": "[09时51分 ~ 16时33分]"
         },
         {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 18时27分]"
+        },
+        {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
           "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
           "source": "凤凰网",
@@ -55,6 +83,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时22分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 18时27分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -67,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时51分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 18时27分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -83,37 +124,12 @@
             12,
             11,
             10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时25分 ~ 17时28分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
             9,
-            6,
-            5,
-            4,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 17时28分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时26分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[01时25分 ~ 18时27分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -127,16 +143,18 @@
           "time_info": "[11时26分 ~ 14时36分]"
         },
         {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            13,
+            11,
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 18时27分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -170,20 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 17时28分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -401,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "玻利维亚宣布经济紧急状态，柴油价格飙升160%，特朗普政府在该国寻求投资",
@@ -884,8 +899,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时51分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时51分 ~ 18时27分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1025,7 +1040,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1091,7 +1106,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -1668,7 +1683,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
