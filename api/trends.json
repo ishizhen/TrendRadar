@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:43:03.267661+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-12-22T13:27:55.006906+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -41,22 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时43分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时31分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时27分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -70,8 +56,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时18分 ~ 12时43分]"
+          "appearance_count": 10,
+          "time_info": "[03时18分 ~ 13时27分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时31分 ~ 13时27分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -187,19 +187,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时27分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
           "url": "https://www.cls.cn/detail/2235857",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时27分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -209,8 +210,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时27分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -313,8 +314,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
         },
         {
           "title": "一位美国消息人士表示，美国情报部门目前没有迹象表明伊朗即将（对以色列）发动袭击。",
@@ -403,11 +404,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
         }
       ]
     },
@@ -426,8 +428,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 13时27分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -438,8 +440,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 13时27分]"
         }
       ]
     },
