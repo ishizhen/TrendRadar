@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T11:38:50.309015+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-12-25T12:40:23.587366+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 12时40分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 11时38分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 12时40分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -143,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -173,7 +173,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -197,8 +197,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时40分]"
         },
         {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
@@ -235,6 +235,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时34分 ~ 05时21分]"
+        },
+        {
+          "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
+          "url": "https://flash.jin10.com/detail/20251225121328471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -309,7 +320,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -400,11 +411,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 12时40分]"
         },
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -412,11 +424,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 12时40分]"
         },
         {
           "title": "金价又创历史新高",
@@ -436,7 +449,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
