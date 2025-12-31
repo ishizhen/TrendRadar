@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T19:21:39.277313+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2025-12-31T20:49:23.076361+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -174,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时49分]"
         },
         {
           "title": "国台办回应特朗普称不担心台海局势",
@@ -244,7 +244,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -353,8 +353,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时21分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 20时49分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -535,8 +535,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时49分]"
         },
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
@@ -569,7 +569,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -580,7 +580,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
