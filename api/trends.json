@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-26T22:32:17.287456+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-01-26T23:33:12.542390+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时37分 ~ 23时33分]"
+        },
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
           "url": "https://wallstreetcn.com/articles/3764090",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时18分 ~ 20时55分]"
-        },
-        {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时37分 ~ 22时32分]"
         },
         {
           "title": "特朗普施压后，英国突然叫停",
@@ -223,6 +223,29 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时33分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时33分]"
+        },
+        {
           "title": "美国参议院民主党领导人Chuck Schumer告知共和党：敦促（总统特朗普所属共和党支持）修改国土安全部（DHS）预算的立法草案。 民主党不希望推进现行国土安全部融资草案。 要求共和党在截止日期之前推进五分拨款草案的立法程序。",
           "url": "https://wallstreetcn.com/livenews/3043405",
           "source": "华尔街见闻-快讯",
@@ -294,28 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时32分]"
-        },
-        {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时32分]"
         },
         {
           "title": "俄总统新闻秘书：欧洲政坛“弱势一代”无法抵挡特朗普的强势",
@@ -415,7 +416,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -437,9 +438,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
+        },
+        {
+          "title": "稀土概念股USAR涨25.88%——此前一度涨29%创10月13日以来最大盘中涨幅，UUUU涨4.35%，ETF XME涨1.58%，MP材料跌0.09%，NB跌19.5%。 美国总统特朗普的商务部向USA Rare Earth提供13亿美元贷款和2.77亿美元联邦拨款，该公司将对美国商务部发行1610万股普通股和1760万认股权证。",
+          "url": "https://wallstreetcn.com/livenews/3044070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "俄专家称特朗普炫新型武器“纯属政治表态”",
+          "url": "https://wallstreetcn.com/livenews/3044069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "柬埔寨首相 ：柬埔寨将加入美国总统特朗普的和平委员会。",
@@ -478,7 +501,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
@@ -488,8 +511,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时37分 ~ 22时32分]"
+          "appearance_count": 11,
+          "time_info": "[17时37分 ~ 23时33分]"
         },
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -523,7 +546,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -584,6 +607,17 @@
           "time_info": "[20时55分 ~ 21时48分]"
         },
         {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时33分]"
+        },
+        {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
           "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
@@ -594,17 +628,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时38分 ~ 18时31分]"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
@@ -625,7 +648,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -727,12 +750,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "英特尔(INTC.O)延续上周五的跌势，美股盘初跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20260126224209981800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -756,8 +790,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时35分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[13时35分 ~ 23时33分]"
+        },
+        {
+          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1999117900200551138",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时31分 ~ 23时33分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -784,18 +830,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时23分]"
-        },
-        {
-          "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1999117900200551138",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时32分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -922,7 +956,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -947,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "伊朗媒体：伊朗外长与美国特使就多项议题交换信息",
+          "url": "https://wallstreetcn.com/livenews/3044076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美与伊朗真会打起来吗",
@@ -996,7 +1041,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1012,8 +1057,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时18分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[12时18分 ~ 23时33分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -1032,6 +1077,21 @@
           "time_info": "[12时18分 ~ 19时24分]"
         },
         {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            27,
+            6,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时31分 ~ 23时33分]"
+        },
+        {
           "title": "杨德龙：国际金价下一目标价1万美元",
           "url": "https://www.toutiao.com/trending/7599480136756366899/",
           "source": "今日头条",
@@ -1044,20 +1104,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时18分 ~ 15时31分]"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            27,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时32分]"
         },
         {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
@@ -1143,7 +1189,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1157,6 +1203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "摩根士丹利：黄金价格或升至5700美元",
+          "url": "https://flash.jin10.com/detail/20260126225035115800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "国际金价疯涨原因",
@@ -1184,7 +1241,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数短线波动不大，现报97.27。",
@@ -1209,13 +1266,24 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "美元指数短线波动不大，现报97.27。现货黄金5分钟内下跌13.28美元/盎司，报5060.87美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044038",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         }
@@ -1280,6 +1348,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1290,7 +1375,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         }
