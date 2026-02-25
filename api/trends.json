@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:12:08.229286+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-02-25T22:53:27.862187+08:00",
+  "total_titles_processed": 1832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 97,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -59,6 +59,18 @@
           "time_info": "[01时58分 ~ 21时12分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时58分 ~ 22时53分]"
+        },
+        {
           "title": "特朗普：100%错误",
           "url": "https://news.ifeng.com/c/8r1UTBsOox0",
           "source": "凤凰网",
@@ -70,18 +82,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时26分 ~ 16时55分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时58分 ~ 21时12分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -135,6 +135,20 @@
           "time_info": "[10时26分 ~ 14时04分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时58分 ~ 22时53分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -166,19 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时58分 ~ 16时55分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时58分 ~ 21时12分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -227,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "墨西哥总统：曾与美国总统特朗普通话，“让其了解针对墨西哥的情况”。",
+          "url": "https://flash.jin10.com/detail/20260225223331337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "特朗普：美国石油产量上升。 天然气产量处于历史最高水平。 从委内瑞拉获得了超过8000万桶石油。 委内瑞拉是美国的新伙伴和朋友。",
@@ -330,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "特朗普在国情咨文讲话中称通胀 “大幅回落”，并大力宣扬经济增长成果。 特朗普称，我们已压低核心通胀率。 特朗普宣扬低汽油价格。",
@@ -1093,7 +1116,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1115,11 +1138,12 @@
             2,
             5,
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时55分 ~ 21时12分]"
+          "appearance_count": 12,
+          "time_info": "[12时55分 ~ 22时53分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -1247,7 +1271,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1334,6 +1358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "伊朗外长启程赴日内瓦参加伊美新一轮间接谈判",
+          "url": "https://wallstreetcn.com/livenews/3058921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "日媒：一名日本公民被伊朗拘留",
@@ -1471,7 +1506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1534,6 +1569,17 @@
           "time_info": "[07时45分 ~ 14时04分]"
         },
         {
+          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3058936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
           "url": "https://flash.jin10.com/detail/20260225193717302800",
           "source": "金十数据",
@@ -1545,6 +1591,17 @@
           "time_info": "19时44分"
         },
         {
+          "title": "美股锂矿概念股走强，Sigma Lithium大涨27%，美国雅保涨9.91%，Lithium Argentina AG涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260225223210838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
           "url": "https://flash.jin10.com/detail/20260225173456379800",
           "source": "金十数据",
@@ -1554,6 +1611,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "美股开盘，道指涨0.35%、标普500指数涨0.43%、纳指涨0.67%，英伟达(NVDA.O)开涨1%，公司将于盘后公布四季度财报，甲骨文涨2.5%，此前奥本海默将其评级上调至“跑赢大盘”。",
+          "url": "https://flash.jin10.com/detail/20260225223043019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -1696,15 +1775,48 @@
           "time_info": "01时59分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
           "url": "https://wallstreetcn.com/livenews/3058852",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
@@ -1813,11 +1925,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 21时12分]"
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 22时53分]"
         },
         {
           "title": "摩根大通：将长期黄金价格预测上调至每盎司4500美元。",
