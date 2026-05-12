@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T18:34:34.849489+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-12T21:05:46.068401+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -76,11 +76,12 @@
             5,
             8,
             21,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时29分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[01时29分 ~ 21时05分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -111,11 +112,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 21时05分]"
         },
         {
           "title": "特朗普：中国是一个令人惊叹的国家",
@@ -166,8 +168,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[08时03分 ~ 21时05分]"
         },
         {
           "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
@@ -179,6 +181,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 21时05分]"
         },
         {
           "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
@@ -193,15 +208,15 @@
           "time_info": "[08时03分 ~ 15时45分]"
         },
         {
-          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
-          "url": "https://news.ifeng.com/c/8t4CJqYob72",
-          "source": "凤凰网",
+          "title": "特朗普访华有哪些重要议题",
+          "url": "https://www.toutiao.com/trending/7638916562564792363/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "21时05分"
         },
         {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
@@ -215,6 +230,46 @@
           "time_info": "01时29分"
         },
         {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 21时05分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 21时05分]"
+        },
+        {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时05分]"
+        },
+        {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://wallstreetcn.com/livenews/3101894",
           "source": "华尔街见闻-快讯",
@@ -225,44 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时04分]"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时34分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时34分]"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 18时34分]"
         },
         {
           "title": "特朗普发文称非常期待中国之行",
@@ -287,6 +304,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时52分]"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时05分]"
         },
         {
           "title": "特朗普称访华行程将非常精彩",
@@ -339,7 +368,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -353,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "美国总统特朗普：伊朗强硬派领导人早晚会屈服，我将与他们继续“周旋”，直到他们愿意跟我达成协议。",
@@ -647,7 +665,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -666,7 +684,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -733,8 +751,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 21时05分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时05分]"
         },
         {
           "title": "德国极右翼政党AfD批评伊朗战争后支持率飙升",
@@ -770,17 +800,6 @@
           "time_info": "08时04分"
         },
         {
-          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
           "title": "伊朗议长：“14点提案”无可替代",
           "url": "https://wallstreetcn.com/livenews/3101863",
           "source": "华尔街见闻-快讯",
@@ -791,6 +810,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时57分]"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时05分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 21时05分]"
         },
         {
           "title": "据伊拉克媒体：消息人士称，伊朗已指示有意加入伊拉克新内阁的各派武装，不得上缴自身武器。",
@@ -835,17 +877,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "美国财政部：发布新的伊朗相关制裁。",
@@ -901,17 +932,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://www.cls.cn/detail/2368941",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "伊朗议长：“14点提案”无可替代",
@@ -991,6 +1011,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "美国国防部长赫格塞思：如果有必要，我们已有对伊朗升级局势的计划。",
+          "url": "https://flash.jin10.com/detail/20260512204411211800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "美国白宫：我们正寻求达成一项能够长期保护我们的安全并消除伊朗核威胁的协议。",
           "url": "https://flash.jin10.com/detail/20260512023115214800",
           "source": "金十数据",
@@ -1008,7 +1039,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1134,6 +1165,17 @@
           "time_info": "03时52分"
         },
         {
+          "title": "据伊朗媒体报道，挪威副外交大臣与伊朗外长阿拉格齐会晤。",
+          "url": "https://flash.jin10.com/detail/20260512203919920800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
+        },
+        {
           "title": "媒体援引伊朗消息人士报道称，伊朗拒绝将铀转移到境外，并准备在国际原子能机构的监督下进行铀浓。 伊朗准备将高浓缩铀稀释至3.7%和20%的浓度。",
           "url": "https://wallstreetcn.com/livenews/3101804",
           "source": "华尔街见闻-快讯",
@@ -1159,8 +1201,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时57分 ~ 18时34分]"
+          "appearance_count": 8,
+          "time_info": "[06时57分 ~ 21时05分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1208,8 +1250,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 21时05分]"
         },
         {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
@@ -1287,7 +1329,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1298,7 +1340,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1587,7 +1629,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
