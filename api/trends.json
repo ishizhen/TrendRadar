@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T13:08:49.697081+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-05-18T18:09:38.166982+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时04分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 18时09分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -37,15 +48,16 @@
           "time_info": "[00时04分 ~ 07时01分]"
         },
         {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
           "source": "凤凰网",
           "ranks": [
-            1
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 18时09分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -61,27 +73,15 @@
           "time_info": "[00时04分 ~ 05时58分]"
         },
         {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时08分]"
-        },
-        {
           "title": "特朗普涉台“四不”示警“台独”",
           "url": "https://www.toutiao.com/trending/7641033902121058340/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 18时09分]"
         },
         {
           "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
@@ -90,9 +90,42 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 18时09分]"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普涉台表态答记者问",
+          "url": "https://www.cls.cn/detail/2374157",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "18时09分"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://www.douyin.com/hot/2503354",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
@@ -285,13 +318,68 @@
           "time_info": "08时05分"
         },
         {
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "特朗普警告伊朗：“时钟正滴答作响”",
+          "url": "https://www.cls.cn/detail/2373911",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "特朗普连发15张图分享中国记忆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "中方回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
           "url": "https://www.zhihu.com/question/2038948707844846917",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -365,7 +453,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -376,8 +464,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 18时09分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -402,8 +490,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 13时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 18时09分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
@@ -462,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "伊朗：释放被冻结资金并解除制裁是伊方一贯诉求",
+          "url": "https://wallstreetcn.com/livenews/3105310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "伊朗外交部：伊朗外长与韩国外长进行电话交谈，讨论地区最新动态。",
@@ -659,7 +758,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -670,57 +769,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高盛称各国央行料将加大力度购买黄金 预估金价年底可达5400美元",
-          "url": "https://wallstreetcn.com/livenews/3105111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
-          "url": "https://wallstreetcn.com/articles/3772448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3105091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "油价和债市联手后，金价如何才能反击？",
-          "url": "https://flash.jin10.com/detail/20260518115414844800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -728,7 +777,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -743,6 +792,17 @@
           "time_info": "[00时04分 ~ 08时05分]"
         },
         {
+          "title": "理想汽车(LI.O)美股盘前跌超9%。",
+          "url": "https://flash.jin10.com/detail/20260518174719751800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2038737314017432936",
           "source": "知乎",
@@ -753,6 +813,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时05分]"
+        },
+        {
+          "title": "摩根士丹利：债市抛售恐冲击美股涨势",
+          "url": "https://wallstreetcn.com/livenews/3105305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -766,6 +837,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "百度集团第一季度营收320.8亿元人民币，预估314.9亿元人民币。 调整后营业利润38.1亿元人民币，预估33.4亿元人民币。 经调整每ADS利润12.06元人民币，预估11.84元人民币。 调整后息税折旧及摊销前利润59.5亿元人民币，预估52.3亿元人民币。 第一季度爱奇艺收入62.3亿元人民币，预估64.3亿元人民币。 百度美股盘前一度涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3105289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
           "url": "https://flash.jin10.com/detail/20260518060027813800",
           "source": "金十数据",
@@ -775,6 +857,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "高盛称各国央行料将加大力度购买黄金 预估金价年底可达5400美元",
+          "url": "https://wallstreetcn.com/livenews/3105111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
+          "url": "https://wallstreetcn.com/articles/3772448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3105091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "油价和债市联手后，金价如何才能反击？",
+          "url": "https://flash.jin10.com/detail/20260518115414844800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
+          "url": "https://wallstreetcn.com/articles/3772363",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时05分]"
+        },
+        {
+          "title": "全线雪崩！美债抛售加剧 “债券义警”正倒逼美联储加息？",
+          "url": "https://www.cls.cn/detail/2374021",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
+          "url": "https://wallstreetcn.com/articles/3772455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 18时09分]"
+        },
+        {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时09分"
         }
       ]
     },
@@ -800,38 +984,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
-          "url": "https://wallstreetcn.com/articles/3772363",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 08时05分]"
-        },
-        {
-          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
-          "url": "https://wallstreetcn.com/articles/3772455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时01分 ~ 13时08分]"
+          "time_info": "[13时08分 ~ 18时09分]"
         }
       ]
     }
