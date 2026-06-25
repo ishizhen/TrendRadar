@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T11:48:00.017145+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-06-25T15:48:03.393906+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -19,13 +19,24 @@
           "time_info": "[01时07分 ~ 07时06分]"
         },
         {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉发生的两次重大地震造成了惨重的死亡人数。",
           "url": "https://flash.jin10.com/detail/20260625114726660800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -92,7 +103,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -136,7 +147,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -176,6 +187,28 @@
           "time_info": "[03时50分 ~ 05时25分]"
         },
         {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时48分]"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
           "title": "鲁比奥：要么伊朗履行承诺，要么特朗普采取行动",
           "url": "https://flash.jin10.com/detail/20260625003348617800",
           "source": "金十数据",
@@ -196,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
-          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         },
         {
           "title": "据CBS：特朗普拟推动将15%乙醇汽油混合燃料政策永久化。",
@@ -270,7 +292,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -380,7 +402,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         }
@@ -448,6 +470,18 @@
           "time_info": "[01时07分 ~ 05时25分]"
         },
         {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时48分]"
+        },
+        {
           "title": "美国参战飞行员：伊朗无人机摆出“水母阵型”，像外星科技",
           "url": "https://flash.jin10.com/detail/20260625032934051800",
           "source": "金十数据",
@@ -487,7 +521,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -512,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         },
         {
           "title": "伊朗外交部发言人：美国必须避免对谅解备忘录的明确文本做出违背其字面意思的解释，并履行其承诺。",
@@ -575,7 +598,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -674,8 +697,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 11时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 15时48分]"
         },
         {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
@@ -684,9 +707,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时48分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -792,8 +815,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3124199",
@@ -831,8 +865,32 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时48分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时48分]"
+        },
         {
           "title": "现货黄金价格跌破4000美元大关",
           "url": "https://www.douyin.com/hot/2546511",
@@ -845,26 +903,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
+          "title": "瑞银集团：预计钯金价格将在未来几个月降至每盎司1100美元。",
+          "url": "https://flash.jin10.com/detail/20260625153854194800",
+          "source": "金十数据",
           "ranks": [
-            7
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "15时48分"
         }
       ]
     },
