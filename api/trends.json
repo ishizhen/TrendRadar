@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T18:42:27.118347+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-07-31T20:58:48.290169+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗革命卫队一天发表三份声明",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 20时58分]"
         },
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -46,6 +46,19 @@
           "time_info": "[00时28分 ~ 15时52分]"
         },
         {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 20时58分]"
+        },
+        {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
           "url": "https://news.ifeng.com/c/8vBRvOidAuY",
           "source": "凤凰网",
@@ -66,18 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 04时16分]"
-        },
-        {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 12时25分]"
         },
         {
           "title": "伊朗军方表示，使用无人机袭击了科威特艾哈迈德·贾比尔空军基地的美军设施，此次袭击是针对近期美国对伊朗的攻击以及格什姆岛的袭击所采取的回应。",
@@ -146,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
+          "url": "https://www.toutiao.com/trending/7668445091514155050/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国官员：伊朗试图说服哈马斯不达成协议，但美国成功克服了这一障碍。",
@@ -220,7 +232,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
@@ -254,6 +266,17 @@
           "time_info": "[08时04分 ~ 12时25分]"
         },
         {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 20时58分]"
+        },
+        {
           "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
           "url": "https://wallstreetcn.com/livenews/3142913",
           "source": "华尔街见闻-快讯",
@@ -265,15 +288,16 @@
           "time_info": "12时25分"
         },
         {
-          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
-          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
-          "source": "凤凰网",
+          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
+          "url": "https://www.cls.cn/detail/2442363",
+          "source": "财联社热门",
           "ranks": [
+            6,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 20时58分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -285,19 +309,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 20时58分]"
         },
         {
-          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
-          "url": "https://www.cls.cn/detail/2442363",
+          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
+          "url": "https://www.cls.cn/detail/2442307",
           "source": "财联社热门",
           "ranks": [
-            6
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 20时58分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
@@ -309,18 +334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 04时16分]"
-        },
-        {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 18时42分]"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
@@ -395,7 +408,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -414,7 +427,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
@@ -452,6 +465,17 @@
           "time_info": "[12时24分 ~ 18时42分]"
         },
         {
+          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 20时58分]"
+        },
+        {
           "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
           "url": "https://flash.jin10.com/detail/20260731035000001800",
           "source": "金十数据",
@@ -461,17 +485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -497,26 +510,49 @@
           "time_info": "[08时04分 ~ 08时05分]"
         },
         {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 20时58分]"
+        },
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "雪佛龙二季度营收及其他收入700.6亿美元，预估679.3亿美元。 二季度调整后每股收益6.06美元，预估5.65美元。 雪佛龙预计全年资本支出位于180亿至190亿美元区间的低端，此前预期为180亿至190亿美元。 雪佛龙美股盘前涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3143166",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
         {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-31）",
+          "url": "https://flash.jin10.com/detail/20260731203012933800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "20时58分"
         },
         {
           "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
@@ -528,12 +564,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "艾伯维二季度净营收169.9亿美元，预估167.7亿美元。 二季度调整后每股收益3.65美元，预估3.61美元。 艾伯维预计全年调整后每股收益为13.87至14.07美元，此前预期为13.91至14.11美元。 艾伯维美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3143251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -543,8 +590,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -555,8 +602,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 18时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时52分 ~ 20时58分]"
         },
         {
           "title": "DeepSeekV4Flash正式版上线",
@@ -571,26 +618,38 @@
           "time_info": "[15时52分 ~ 18时42分]"
         },
         {
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 20时58分]"
+        },
+        {
           "title": "DeepSeek V4 Flash正式版强在哪",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
         {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "20时58分"
         },
         {
           "title": "DeepSeek-V4-Flash正式版上线",
@@ -599,7 +658,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
@@ -662,7 +721,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -730,8 +789,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时04分 ~ 20时58分]"
         },
         {
           "title": "美元指数跌超0.9%",
