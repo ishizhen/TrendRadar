@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T09:52:50.923315+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-08-11T11:47:33.362839+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -53,6 +53,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时58分 ~ 07时37分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时47分]"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时47分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -111,17 +134,6 @@
           "time_info": "07时37分"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
           "title": "美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。",
           "url": "https://wallstreetcn.com/livenews/3147672",
           "source": "华尔街见闻-快讯",
@@ -153,17 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
-        },
-        {
-          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
         },
         {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
@@ -200,6 +201,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 03时58分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时47分]"
         },
         {
           "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
@@ -248,17 +271,6 @@
           "time_info": "03时58分"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -268,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
         },
         {
           "title": "美国总统特朗普：我们已经对整个霍尔木兹海峡进行了扫雷。",
@@ -314,6 +315,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -345,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
@@ -452,7 +475,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -504,7 +527,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -529,6 +552,28 @@
           "time_info": "[01时53分 ~ 03时01分]"
         },
         {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时47分]"
+        },
+        {
+          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "伊朗总统称与最高领袖会谈了七八个小时",
           "url": "https://news.ifeng.com/c/8vUUCRouqKj",
           "source": "凤凰网",
@@ -540,26 +585,26 @@
           "time_info": "07时37分"
         },
         {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
           "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
           "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -568,7 +613,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -603,9 +648,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时47分]"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时47分]"
         },
         {
           "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
@@ -617,17 +674,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
-        },
-        {
-          "title": "伊朗总统称最高领袖健康状况很好",
-          "url": "https://www.toutiao.com/trending/7672040770148417546/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
         },
         {
           "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
@@ -707,6 +753,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
+          "url": "https://flash.jin10.com/detail/20260811110335188800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗布什尔省长表示，针对美国和以色列袭击中遗留的未爆弹药，将于当地时间周二8时至12时，在布什尔空军基地附近开展专业化排除和销毁行动。相关爆炸属于可控爆破，民众无需担心。",
           "url": "https://flash.jin10.com/detail/20260811031201658800",
           "source": "金十数据",
@@ -727,6 +784,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "伊朗称美以是造成中东地区动荡根源",
+          "url": "https://www.toutiao.com/trending/7671798549898657855/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
@@ -952,8 +1031,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 11时47分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -964,8 +1043,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 11时47分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -976,8 +1055,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 11时47分]"
         },
         {
           "title": "美股收盘：芯片股、光通信概念重挫",
@@ -1081,6 +1160,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价周一涨1.1%，现货白银涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3147700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时37分]"
+        },
+        {
+          "title": "金价会涨到多高",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%BC%9A%E6%B6%A8%E5%88%B0%E5%A4%9A%E9%AB%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）上海金早盘价为961.33元/克，较国际金价(956.87元/克)，高4.46元/克",
+          "url": "https://flash.jin10.com/detail/20260811110126674800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1159,27 +1278,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价周一涨1.1%，现货白银涨3.2%",
-          "url": "https://wallstreetcn.com/livenews/3147700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 07时37分]"
         }
       ]
     }
