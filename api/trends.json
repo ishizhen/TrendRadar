@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T21:15:37.160590+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-08-13T23:01:51.162998+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时59分 ~ 10时07分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时07分 ~ 23时01分]"
         },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -54,21 +69,6 @@
           "time_info": "[00时04分 ~ 10时07分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 21时15分]"
-        },
-        {
           "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
           "source": "知乎",
@@ -92,6 +92,33 @@
           "time_info": "[10时07分 ~ 12时53分]"
         },
         {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            13,
+            18,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 23时01分]"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时49分 ~ 23时01分]"
+        },
+        {
           "title": "DeepSeek发布V4Pro正式版",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -103,6 +130,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时59分 ~ 07时43分]"
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时49分 ~ 23时01分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版突遭撤回",
@@ -122,7 +173,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -138,16 +189,16 @@
           "time_info": "07时43分"
         },
         {
-          "title": "DeepSeek官宣涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
           "ranks": [
-            2,
-            7
+            19,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时15分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时01分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -163,31 +214,6 @@
           "time_info": "[05时49分 ~ 07时43分]"
         },
         {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 21时15分]"
-        },
-        {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时15分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
           "url": "https://flash.jin10.com/detail/20260813050715033800",
           "source": "金十数据",
@@ -198,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时43分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时01分]"
         },
         {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
@@ -212,6 +250,30 @@
           "time_info": "[10时07分 ~ 12时53分]"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时01分]"
+        },
+        {
+          "title": "让DeepSeek给小说取架空国名",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时01分]"
+        },
+        {
           "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
           "url": "https://www.zhihu.com/question/2071019389479023642",
           "source": "知乎",
@@ -222,6 +284,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时48分 ~ 06时43分]"
+        },
+        {
+          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+          "url": "https://www.zhihu.com/question/2071335529577239335",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -265,18 +349,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -303,17 +376,6 @@
           "time_info": "18时10分"
         },
         {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
           "title": "DeepSeek调价方案公布，8月17日生效",
           "url": "https://flash.jin10.com/detail/20260813192316309800",
           "source": "金十数据",
@@ -323,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
-        },
-        {
-          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-          "url": "https://www.zhihu.com/question/2071318356477662328",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         },
         {
           "title": "万邦医药：除API接入外，公司未与DeepSeek公司开展任何业务合作",
@@ -367,23 +418,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
-        },
-        {
-          "title": "让DeepSeek给小说取架空国名",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -406,6 +446,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 07时43分]"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 23时01分]"
         },
         {
           "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
@@ -447,18 +501,16 @@
           "time_info": "[01时59分 ~ 10时07分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
           "ranks": [
-            9,
             7,
-            5,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时52分 ~ 21时15分]"
+          "time_info": "[18时10分 ~ 23时01分]"
         },
         {
           "title": "特朗普躲避暗杀更多细节曝光",
@@ -472,29 +524,6 @@
           "time_info": "[01时59分 ~ 07时43分]"
         },
         {
-          "title": "伊学者：特朗普正酝酿大规模打击，欲为“不败”找台阶",
-          "url": "https://flash.jin10.com/detail/20260813211235613800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 21时15分]"
-        },
-        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -503,8 +532,43 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时49分 ~ 23时01分]"
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时15分]"
+          "time_info": "[23时00分 ~ 23时01分]"
+        },
+        {
+          "title": "伊学者：特朗普正酝酿大规模打击，欲为“不败”找台阶",
+          "url": "https://flash.jin10.com/detail/20260813211235613800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 23时01分]"
         },
         {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
@@ -529,18 +593,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时59分]"
-        },
-        {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 21时15分]"
         },
         {
           "title": "特朗普：我想谋求第三任期，但美国法律太严",
@@ -718,7 +770,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -732,8 +784,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时43分 ~ 21时15分]"
+          "appearance_count": 10,
+          "time_info": "[06时43分 ~ 23时01分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -757,6 +809,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时04分 ~ 05时49分]"
+        },
+        {
+          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
@@ -792,6 +855,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时49分 ~ 21时15分]"
+        },
+        {
+          "title": "美股三大指数开盘上涨",
+          "url": "https://www.douyin.com/hot/2608893",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -847,7 +921,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -858,7 +932,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -940,6 +1014,28 @@
           "time_info": "06时43分"
         },
         {
+          "title": "美股盘初，主要行业ETF多数上涨，全球航空业ETF涨超1%，区域银行业ETF、银行业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3149196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
+          "title": "美股盘初：三大指数小幅上涨，Coherent跌约4%，Cerebras跌约12%，京东跌约2%",
+          "url": "https://wallstreetcn.com/livenews/3149193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "京东集团 第二季度净营收3,464.0亿元人民币，同比下降2.9%，市场预估3,421亿元人民币。 第二季度调整后EBITDA 79亿元人民币，上年同期30亿元人民币，市场预估77亿元人民币。 第二季度调整后每ADS收益6.29元人民币，市场预估5.40元人民币。 截至2026年6月30日，股票回购计划剩余金额为10亿美元。 京东集团美股盘前跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3149104",
           "source": "华尔街见闻-快讯",
@@ -954,8 +1050,43 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "伊朗：将以持久战消耗美国",
+          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时01分]"
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 23时01分]"
+        },
+        {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 23时01分]"
+        },
         {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
           "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
@@ -967,41 +1098,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 12时53分]"
-        },
-        {
-          "title": "伊朗：将以持久战消耗美国",
-          "url": "https://news.ifeng.com/c/8vYfWkn57YW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
-          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 21时15分]"
-        },
-        {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 21时15分]"
         },
         {
           "title": "伊朗拖美国入不对称战争，“蝴蝶效应”波及日本卷帘门",
@@ -1076,13 +1172,24 @@
           "time_info": "[05时49分 ~ 06时43分]"
         },
         {
+          "title": "英国海事贸易组织：伊朗革命卫队继续骚扰和监视商船，尽管在最新报告期内没有确认的攻击事件。",
+          "url": "https://flash.jin10.com/detail/20260813223530443800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "伊朗外长称美误判霍尔木兹局势",
           "url": "https://wallstreetcn.com/livenews/3149178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1096,6 +1203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "伊朗官员：美若敢用核弹 其全球基地将成靶子",
+          "url": "https://wallstreetcn.com/livenews/3149207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "伊朗革命卫队指挥官纳克迪：我们已经承受了长达73年的美国打击，伊朗顶住了这些压力，保持了团结，维护了领土完整，没有让敌人实现其目标。",
@@ -1137,7 +1255,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1148,7 +1266,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1300,7 +1418,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
@@ -1313,6 +1431,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时52分 ~ 18时10分]"
+        },
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时01分]"
         },
         {
           "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
@@ -1344,7 +1473,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
